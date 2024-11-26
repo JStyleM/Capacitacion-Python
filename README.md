@@ -38,7 +38,7 @@
 3. Creacion API con FastAPI  : **Sistema de Inventario**
    - Creacion de entornos de Ejecucion `venv`
    - Instalacion FastAPI
-   - Aplicacion Web de ejemplo de Inventarios.
+   - Creacion de la API del Sistema de Inventarios.
         - Creacion de API
         - Modelos con Pydantic
         - Endpoints
